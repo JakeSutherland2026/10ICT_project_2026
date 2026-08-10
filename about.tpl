@@ -20,7 +20,7 @@
     <p> Sports: I am interested in Rock climbing and football. In rockclimbing there are three main types of climbing but i am mainly interested in bouldering</p>
     <p> Academics: I am interested in a wide variety of school subjects but mainly enjoy subjects with a more logical ascpect. <br> These include mathematics, ICT and the sciences.</p>
     <h3> </h3>
-    <img src="myimage.jpg" alt="image of me">
+    <img src="static/image.png" alt="image of me">
         <h3> </h3>
    <div> <a href="https://www.youtube.com/watch?v=pnRiowLkTME"> Big bang theory expalanation</a> </div>
 </body>
