@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>About Page</title>
+    <title>Personal Profile</title>
     <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
     <nav>
         <a href="/">Home</a>
-        <a href="/about">About</a>
+        <a href="/personal">Personal</a>
         <a href="/contact">Contact</a>
     </nav>
 
-    <h1>About Us</h1>
+    <h1>Personal Profile</h1>
     <title> Jake Sutherland </title>
   <head> <link href="main.css" rel="stylesheet"> </head>
   <body>

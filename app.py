@@ -7,9 +7,9 @@ from bottle import run, route, template, view, static_file
 def h():
     return template('home') #Dictionary for template variables if needed
 
-@route('/about')
+@route('/personal')
 def a():
-    return template('about') # Manual template rendering
+    return template('personal') # Manual template rendering
 
 @route('/contact')
 @view('contact')
@@ -22,4 +22,4 @@ def server_static(filename):
     return static_file(filename, root='./static')
 
 # START SERVER
-run(host='localhost', port='8080', debug=True, reloader=True)
+run(host='localhost', port='44249', debug=True, reloader=True)
