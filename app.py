@@ -7,9 +7,9 @@ from bottle import run, route, template, view, static_file
 def h():
     return template('home') #Dictionary for template variables if needed
 
-@route('/personal')
+@route('/about')
 def a():
-    return template('personal') # Manual template rendering
+    return template('about') # Manual template rendering
 
 @route('/contact')
 @view('contact')
